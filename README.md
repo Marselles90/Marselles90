@@ -24,6 +24,9 @@
         <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=draw.io&logoColor=white">
         <img src="https://img.shields.io/badge/Jupyter-844EA4?style=for-the-badge&logo=jupyter&logoColor=white">
         <img src="https://img.shields.io/badge/DBeaver-045888?style=for-the-badge&logo=dbeaver&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker_Compose-045888?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
+
+      
     </td>
   </tr>
 </table>
